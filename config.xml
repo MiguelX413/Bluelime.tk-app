@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "tk.bluelime"
+    version   = "1.0.0">
+
+<name>Bluelime.tk</name>
+
+<description>
+A App for the bluelime.tk to stay in touch with the servers, go on chat, review twitter feeds, and more.
+</description>
+
+<author href="https://bluelime.tk" email="you@example.com">
+Bluelime.tk Netowrk
+</author>
+
+</widget>
+<preference name="stay-in-webview" value="true" /> 
